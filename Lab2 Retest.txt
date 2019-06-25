@@ -1,0 +1,2055 @@
+Q1
+
+
+
+
+
+Which method of the jpa entity manager would you use to force synchronizing the database
+
+with the entities of the persistence context?
+
+Single Choice - Select one correct answer from the options list.
+
+synchronize()
+
+flush()
+
+refresh()
+
+persist()
+
+Q2
+
+
+
+
+
+What causes the entity manager to move an Entity instance from the managed to the detached state?
+
+Single Choice - Select one correct answer from the options list.
+
+Invoke the detach() method of the entity manager on the instance
+
+Invoke the remove() method of the entity manager on the instance
+
+Invoke the unsynchronized() method of the entity manager on the instance
+
+Invoke the persist() method of the entity manager on the instance
+
+Q3
+
+
+
+
+
+What is the output of following HTML code?
+
+
+
+<html>
+
+<head>
+
+  <title></title>
+
+</head>
+
+<body bgcolor="cyan">
+
+  <h1> first </h1>
+
+</body>
+
+ <body bgcolor="yellow">
+
+  <h1> second </h1>
+
+</body>
+
+</html>
+
+Single Choice - Select one correct answer from the options list.
+
+The background color of the body will be cyan and the headers of both body tags will be visible in output
+
+
+
+The background of the body will be yellow and the headers of both body tags will be not visible in output
+
+
+
+The background color of the body will be cyan with yellow text color and the headers of both body tags
+
+will be visible in output
+
+
+
+Blank page displayed since body tag is specified twice
+
+
+
+Q4
+
+
+
+
+
+Choose the correct style example of class selector?
+
+Single Choice - Select one correct answer from the options list.
+
+p {
+
+text-align: center;
+
+color: red;
+
+}
+
+
+
+#para1 {
+
+text-align: center;
+
+color: red;
+
+}
+
+
+
+.center {
+
+text-align: center;
+
+color: red;
+
+}
+
+
+
+h1, h2, p {
+
+text-align: center;
+
+color: red;
+
+}
+
+
+
+Q5
+
+
+
+
+
+Given HTML code snippet:
+
+
+
+How many radiobuttons can be selected at a time?
+
+
+
+<INPUT type="radio" value="HTML5" name="lang">HTML5<br>
+
+<INPUT type="radio" value="CSS3" name="lang">CSS3 <br>
+
+<INPUT type="radio" value="JavaScript" name="lang">JavaScript<br>
+
+Single Choice - Select one correct answer from the options list.
+
+0
+
+3
+
+2
+
+1
+
+Q6
+
+
+
+
+
+ Will the below code snippet displays the heading 'Capgemini' at Medium Mode in bootstrap:
+
+
+
+<div class="visible-md"><h1>Capgemini</h1></div>
+
+Single Choice - Select one correct answer from the options list.
+
+TRUE
+
+FALSE
+
+Q7
+
+
+
+
+
+<form action=/servlet/Login>
+
+<input type="text" name="username" value="enter username"/>
+
+<input type="submit" name="sbbutton" value="signin"/>
+
+</form>
+
+
+
+As per above html page, after sending request to the Login Servlet, which of the below code
+
+should be used to get the value entered in username textboox?
+
+Assume request is the object of HTTPServletRequest.
+
+Single Choice - Select one correct answer from the options list.
+
+request.getParam("username")
+
+request.getParamaterValues("username")
+
+request.get("username")
+
+request.getParamater("username")
+
+Q8
+
+
+
+
+
+To define routes for application, create a Routes configuration and then use ________.
+
+Single Choice - Select one correct answer from the options list.
+
+Router.forRoot(routes)
+
+RouterModule.forRoot(routes)
+
+const routes: Routes = [
+
+{ path: '', redirectTo: 'home', pathMatch: 'full' }]
+
+const routes: Routes = []
+
+Q9
+
+
+
+
+
+let msg = function(message)
+
+{
+
+ console.log(message);
+
+}
+
+msg("hello");
+
+
+
+Which of the given option of Arrow function is equivalent to above function?
+
+Single Choice - Select one correct answer from the options list.
+
+let msg=(message)=>console.log(message);
+
+msg("hello")
+
+
+
+let msg=>(message)=>console.log(message);
+
+msg("hello")
+
+
+
+let msg=(message)=console.log(message);
+
+msg("hello")
+
+
+
+None of the above
+
+
+
+Q10
+
+
+
+
+
+Using Slicepipe answer below question?
+
+
+
+ var = "abcdefghijk";
+
+ {{ var | slice : 3 : -3 }}
+
+Single Choice - Select one correct answer from the options list.
+
+defghi
+
+defgh
+
+kjih
+
+abc
+
+Q11
+
+
+
+
+
+Defining routes in application can___________.
+
+Single Choice - Select one correct answer from the options list.
+
+Separate different areas of the app
+
+Maintain the state in the app
+
+Protect areas of the app based on certain rules
+
+All of the above
+
+Q12
+
+
+
+
+
+Which of the given command is used to generate a component 'myComponent' using Angular CLI?
+
+Single Choice - Select one correct answer from the options list.
+
+ng generate component myComponent
+
+ng g c myComponent
+
+both 1 and 2
+
+None of the above
+
+Q13
+
+
+
+
+
+RxJS provides the _________ operator that lets you handle known errors in the observable receipe.
+
+Single Choice - Select one correct answer from the options list.
+
+catchError
+
+handleError
+
+map
+
+response
+
+Q14
+
+
+
+
+
+State whether the given statements are True or False:
+
+
+
+1: Minutes of the meeting is a Configurable Item.
+
+2: Configuration Management (CM) process is only used by maintenance projects.
+
+It doesn't support for sales department.
+
+Single Choice - Select one correct answer from the options list.
+
+Statement 1 is TRUE
+
+Statement 2 is FALSE
+
+Statement 1 is FALSE
+
+Statement 2 is FALSE
+
+Statement 1 is TRUE
+
+Statement 2 is TRUE
+
+Statement 1 is FALSE
+
+Statement 2 is TRUE
+
+Q15
+
+
+
+
+
+State whether the given statements are True or False:
+
+
+
+1: In V-model ,Unit testing is implemented parallel with Code generation phase.
+
+2: As a part of SDLC, flowcharts and pseudocodes should be created during Design phase.
+
+Single Choice - Select one correct answer from the options list.
+
+Statement 1 is TRUE
+
+Statement 2 is FALSE
+
+Statement 1 is FALSE
+
+Statement 2 is FALSE
+
+Statement 1 is TRUE
+
+Statement 2 is TRUE
+
+Statement 1 is FALSE
+
+Statement 2 is TRUE
+
+Q16
+
+
+
+
+
+Which of the below statements are true w.r.t Systems Testing ?
+
+Single Choice - Select one correct answer from the options list.
+
+Is done by the QA Team
+
+Is done by the development team
+
+Also known as White Box Testing
+
+Also known as Red Box Testing
+
+Q17
+
+
+
+
+
+Select the correct sequence of steps involved in connecting with the database.
+
+
+
+Step 1: Load the driver
+
+Step 2: ____________
+
+Step 3: ____________
+
+Step 4: Execute the query
+
+Single Choice - Select one correct answer from the options list.
+
+Step 2:Establish the connection
+
+Step 3: Create the JDBC Statements
+
+
+
+Step 2:Create the JDBC Statements
+
+Step 3: Establish the connection
+
+
+
+Step 2:Establish the connection
+
+Step 3: Close the resources
+
+
+
+Step 2:Establish the connection
+
+Step 3: Iterate the ResultSet
+
+
+
+Q18
+
+
+
+
+
+Consider the following code and predict the output:
+
+
+
+String sql = "UPDATE Booking_master SET AvSeats=? WHERE ShowId=?";
+
+ preStatement = con.prepareStatement(sql);
+
+ preStatement.setInt(1, 5);
+
+ preStatement.setString(2, "S102");
+
+ preStatement.executeQuery();
+
+Single Choice - Select one correct answer from the options list.
+
+Compilation error as executeQuery is used to execute a DML statement
+
+Runtime error as executeQuery is used to execute a DML statement
+
+No error. Table gets updated
+
+No error but table does not get updated
+
+Q19
+
+
+
+
+
+Which of the below statement is false?
+
+Single Choice - Select one correct answer from the options list.
+
+The next() method must be called on a ResultSet before reading the first row of results
+
+When a Statement is closed, any related ResultSets are also closed.
+
+ResultSet column indexes are numbered from 0 and not 1 .
+
+PreparedStatements are precompiled and can increase efficiency for frequently used SQL queries.
+
+Q20
+
+
+
+
+
+Software or substance that is manufactured/developed for sale is_______.
+
+Single Choice - Select one correct answer from the options list.
+
+Product
+
+Defect
+
+Issue
+
+Risk
+
+Q21
+
+
+
+
+
+During which phase, defects are injected?
+
+Single Choice - Select one correct answer from the options list.
+
+Requirement Gathering
+
+Errors in previous phase output
+
+Deployment
+
+None
+
+Q22
+
+
+
+
+
+Which of the given statement(s) is/are true about Spring Boot?
+
+Single Choice - Select one correct answer from the options list.
+
+It favors convention over configuration and it is designed to get you up as quickly
+
+It includes Foundation layer modules and Execution Layer domain specific runtimes( DSRs)
+
+It is a product of the Spring Community focused on creating document driven web services
+
+It extends the Spring programming model to support the well-known Enterprise Integration Pattern
+
+Q23
+
+
+
+
+
+Which of the given statement is true about above code?
+
+
+
+@RestController
+
+@RequestMapping("/service/booking")
+
+public class SpringRestController {
+
+ @RequestMapping(value = "/{name}", method = RequestMethod.GET)
+
+ public String registerCustomer(@PathVariable String name)
+
+ {
+
+ String result = "Welcome " + name + " to Hotel Booking!!!";
+
+
+
+ return result;
+
+ }
+
+}
+
+Single Choice - Select one correct answer from the options list.
+
+SpringRestController will handle request for /service/booking and
+
+it will also receive the value i.e the value of path variable name from this URL and
+
+it will generate the response as "Welcome value of name to Hotel Booking!!!"
+
+
+
+SpringRestController will handle request for /service/booking/name and
+
+it will print the result as "Welcome name to Hotel Booking" always
+
+
+
+SpringRestController will handle request for /service and
+
+it will also receive the value i.e the value of path variable name from this URL and
+
+it will generate the response as "Welcome greeting to Hotel Booking!!!"
+
+
+
+Exception will occur
+
+
+
+Q24
+
+
+
+
+
+User wants to send a request to Spring MVC. Assume that request coming from the URL is 'hello' .
+
+Which of the following code is the correct code at Line 1?
+
+
+
+@Controller
+
+public class FirstController {
+
+LINE 1 _____________
+
+ public ModelAndView handleRequest()
+
+ {
+
+   String name="Shyam";
+
+ return new ModelAndView("welcome","name",name);
+
+ }
+
+Single Choice - Select one correct answer from the options list.
+
+@RequestMapping("/hello")
+
+@RequestMapping("/helloWorld")
+
+@RequestParam("/hello")
+
+@RequestMapping("World")
+
+Q25
+
+
+
+
+
+Which of the given statement is true about below code?
+
+
+
+@GetMapping("/hello")
+
+ResponseEntity<String> hello()
+
+{
+
+  return new ResponseEntity<>("Hello World!", HttpStatus.OK);
+
+}
+
+Single Choice - Select one correct answer from the options list.
+
+This code will return string Hello World! with status code
+
+It will generate compilation error
+
+It will generate exception
+
+None of the above
+
+Q26
+
+
+
+
+
+Which of the following is true regarding the below Spring controller?
+
+
+
+@RestController
+
+public class OwnerController {
+
+@RequestMapping(value = "/owner/{ownerId}", method = RequestMethod.POST)
+
+@ResponseBody
+
+public Owner findOwner(@PathVariable("ownerId") int ownerId) {
+
+return new Owner();
+
+}
+
+}
+
+Single Choice - Select one correct answer from the options list.
+
+RequestMethod.GET method is more accurate than POST
+
+@PathVariable should be replaced with the @PathParam annotation
+
+Returning the 201 HTTP status code is better
+
+None
+
+Q27
+
+
+
+
+
+In Spring which annotation is used to show the dependency Injection of a bean and it can be used
+
+with Constructor, property?
+
+Single Choice - Select one correct answer from the options list.
+
+@Autowired
+
+@Required
+
+@Mandatory
+
+@Repository
+
+Q28
+
+
+
+
+
+Is this the correct way to write inside @Repository class?
+
+
+
+@Query("SELECT f FROM Foo f WHERE LOWER(f.name) = LOWER(:name)")
+
+Foo retrieveByName(@Param("name") String name);
+
+Single Choice - Select one correct answer from the options list.
+
+TRUE
+
+FALSE
+
+Q29
+
+
+
+
+
+Select the annotation that trigger validation of a @Controller input.
+
+Single Choice - Select one correct answer from the options list.
+
+@Pattern
+
+@Size
+
+@NotNull
+
+@Valid
+
+Q30
+
+
+
+
+
+What is the significance of @PersistenceUnit annotation while doing JPA integration in Spring Application?
+
+Single Choice - Select one correct answer from the options list.
+
+Used to persist Entity Objects
+
+Use to fetch data from Entity Objects
+
+Used to obtain an instance of EntityManager object and inject it into DAO specific class
+
+Used to create an instance of EntityManagerFactory
+
+Q31
+
+
+
+
+
+Which annotation in Spring will bind the incoming HTTP request body to method parameter
+
+for the same URL mentioned in @RequestMapping for that method?
+
+Single Choice - Select one correct answer from the options list.
+
+@RequestBody
+
+@RequestMapping
+
+@PathVariable
+
+None of the above
+
+Q32
+
+
+
+
+
+______allows you to add some context to the scenarios in the feature and will be executed before all scenarios.
+
+Single Choice - Select one correct answer from the options list.
+
+Background
+
+Scenario Outline
+
+Given
+
+BUT
+
+Q33
+
+
+
+
+
+What will be the default Bootstrap look of the alert created with this following code:
+
+
+
+<div class="alert" role="alert">Warning! I'm missing something.</div>
+
+Single Choice - Select one correct answer from the options list.
+
+a default gray alert will be created.
+
+a default blue alert will be created.
+
+a default green alert will be created.
+
+a default red alert will be created.
+
+Q34
+
+
+
+
+
+_______ steps are used to describe the initial context of the system - the scene of the scenario.
+
+It is typically something that happened in the past.
+
+Single Choice - Select one correct answer from the options list.
+
+Given
+
+Feature
+
+When
+
+Background
+
+Q35
+
+
+
+
+
+Choose all BDD frameworks: (Choose 3)
+
+Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list.
+
+Cucmber
+
+Specflow
+
+JBehave
+
+.NET
+
+Q36
+
+
+
+
+
+How to set the property for google chrome browser and also how to open automatically in
+
+browser and gets the website?
+
+Single Choice - Select one correct answer from the options list.
+
+System.setProperty("webdriver.chrome.driver", "\\var\\www\\Jar\\chromedriver");
+
+
+
+System.SetProperty("web.chrome.driver");
+
+WebDriver wd=new ChromeDriver();
+
+wd.get("www.googl.com");
+
+wd.getTitle();
+
+
+
+
+
+System.setProperty("webdriver.chrome.driver", "\\var\\www\\Jar\\chromedriver.exe");
+
+
+
+WebDriver wd=new ChromeDriver();
+
+wd.get("www.google.com");
+
+wd.getTitle();
+
+
+
+System.setProperty("webdriver.chrome.driver", "\\var\\www\\Jar\\chromedriver.exe");
+
+
+
+WebDriver wd=new ChromeBrowser();
+
+wd.get("www.googl.com");
+
+wd.getTitle();
+
+
+
+Q37
+
+
+
+
+
+Consider the following code snippet:
+
+
+
+@RunWith(Cucumber.class)
+
+@Cucumber.Options(format = {"pretty", "html:target/cucumber"}, tags = {"@dev,~@wip"})
+
+
+
+public class runTest { }
+
+Single Choice - Select one correct answer from the options list.
+
+scenarios matching both (@dev,~@wip) these tag needs to be executed.
+
+scenarios matching any of this tag(@dev,~@wip) needs to be executed.
+
+this will ignore all test case which has tag as @wip
+
+this will execute all test cases except @dev and @wip tag tests.
+
+Q38
+
+
+
+
+
+Select the component which is NOT part of Selenium suite.
+
+Single Choice - Select one correct answer from the options list.
+
+Selenium IDE
+
+Selenium RC
+
+Selenium Web
+
+Selenium Grid
+
+Q39
+
+
+
+
+
+Choose the correct sequence in such way you can create user stories and pass step def in cucumber.
+
+Single Choice - Select one correct answer from the options list.
+
+1.Describe Behavior using user stories.
+
+2.Write step definition
+
+3.Run and fail
+
+4.Write code to make step pass
+
+5.Run and Pass
+
+
+
+1.Write step definition
+
+2.Describe Behavior using user stories.
+
+3.Run and Pass
+
+4.Write code to make step pass
+
+5.Run and fail
+
+
+
+1.Write step definition
+
+2.Describe Behavior using user stories.
+
+3.Run and Pass
+
+4.Run and fail
+
+5.Write code to make step pass
+
+
+
+1.Run and Pass
+
+2.Describe Behavior using user stories.
+
+3.Write code to make step pass
+
+4.Run and fail
+
+5.Write step definition
+
+
+
+Q40
+
+
+
+
+
+public class Foo
+
+{
+
+  public static void main(String[] args)
+
+  {
+
+    try
+
+    {
+
+      return;
+
+    }
+
+    finally
+
+    {
+
+      System.out.println( "Finally" );
+
+    }
+
+  }
+
+}
+
+
+
+What will be the output of the above code?
+
+
+
+Single Choice - Select one correct answer from the options list.
+
+Finally
+
+Compilation fails
+
+The code runs with no output
+
+An exception is thrown at runtime
+
+Q41
+
+
+
+
+
+Which of the below statement is false?
+
+Single Choice - Select one correct answer from the options list.
+
+The class StringBuffer represents the mutable sequence of characters and the class is thread safe
+
+The class StringBuffer represents the mutable sequence of characters.
+
+The class String represents the immutable sequence of characters
+
+The class StringBuilder represents the mutable sequence of characters and the class is thread safe
+
+so more faster in execution
+
+Q42
+
+
+
+
+
+Which of the given are Junit building blocks?
+
+Single Choice - Select one correct answer from the options list.
+
+Junit Vintage
+
+Junit Jupitor
+
+Junit Platform
+
+All of the above
+
+Q43
+
+
+
+
+
+Which of the given below is/are checked exceptions?
+
+Single Choice - Select one correct answer from the options list.
+
+IOException
+
+SQLException
+
+ClassNotFoundException
+
+All of the above
+
+Q44
+
+
+
+
+
+What will be the output of below code snippet?
+
+
+
+int ch=5;
+
+switch(ch){
+
+ case 0:System.out.println("Zero");
+
+ case 1:System.out.println("One");
+
+    break;
+
+ case 2:System.out.println("Two");
+
+break;
+
+}
+
+Single Choice - Select one correct answer from the options list.
+
+Zero
+
+One
+
+
+
+One
+
+Two
+
+
+
+Zero
+
+One
+
+Two
+
+
+
+No output
+
+Q45
+
+
+
+
+
+class TestDemo {
+
+  @Test
+
+   void testWillBeSkipped()
+
+{
+
+  System.out.println("this test class is not disabled...");
+
+  }
+
+
+
+  @Disabled
+
+  @Test
+
+  public void testWillBeDisabled()
+
+{
+
+   System.out.println("This test is disabled...");
+
+  }
+
+}
+
+
+
+In the above code, how many test cases will execute?
+
+Single Choice - Select one correct answer from the options list.
+
+1
+
+2
+
+0
+
+3
+
+Q46
+
+
+
+
+
+ Sam wants to read the Character input data From a File. Suggest the appropriate class for him:
+
+Single Choice - Select one correct answer from the options list.
+
+FileReader
+
+FileWriter
+
+FileInputStream
+
+FileOutputStream
+
+Q47
+
+
+
+
+
+Which of the below call causes the thread to begin the execution?
+
+Single Choice - Select one correct answer from the options list.
+
+thread.run()
+
+thread.join()
+
+thread.join(100)
+
+thread.start()
+
+Q48
+
+
+
+
+
+Which of the following is true?
+
+
+
+ A. An interface cannot be instantiated.
+
+ B. A final field of a class can be instantiated in the constructor.
+
+ C. A protected field of a class is accessible by child class in any package.
+
+ D. A class can implement more than one interface
+
+Single Choice - Select one correct answer from the options list.
+
+A & D
+
+A, C & D
+
+A, B &D
+
+All of them
+
+Q49
+
+
+
+
+
+Is private members accessible in derived classed?
+
+Single Choice - Select one correct answer from the options list.
+
+TRUE
+
+FALSE
+
+Q50
+
+
+
+
+
+import java.util.*;
+
+class Demo {
+
+public static void main(String[] args) {
+
+List<String> list = Arrays.asList("25", "225", "1000", "20", "15");
+
+list.stream().mapToLong(num -> Long.parseLong(num))
+
+.filter(num -> Math.sqrt(num) / 5 == 3)
+
+.forEach(System.out::println);
+
+}
+
+}
+
+
+
+What will be the output?
+
+Single Choice - Select one correct answer from the options list.
+
+225
+
+Compilation Error
+
+Runtime Error
+
+25
+
+Q51
+
+
+
+
+
+If we have,
+
+ArrayList lst = new ArrayList();
+
+
+
+What is the initial capacity of the ArrayList lst ?
+
+Single Choice - Select one correct answer from the options list.
+
+10
+
+8
+
+15
+
+12
+
+Q52
+
+
+
+
+
+Which access modifier is used for inheritance purpose?
+
+Single Choice - Select one correct answer from the options list.
+
+protected
+
+default
+
+private
+
+All of the above
+
+Q53
+
+
+
+
+
+Given:
+
+String a = "aAaA";
+
+
+
+Which of the following code will replace all 'A' character with 'C' character in given String?
+
+Single Choice - Select one correct answer from the options list.
+
+String a="aAaA";
+
+a.replace('A', 'C');
+
+System.out.println(a);
+
+
+
+String a="aAaA";
+
+a=a.replace('A', 'C');
+
+System.out.println(a);
+
+
+
+String a="aAaA";
+
+a=a.replaceChars('A', 'C');
+
+System.out.println(a);
+
+
+
+No method available in String class for this.
+
+
+
+Q54
+
+
+
+
+
+Are all DML statements executed through Java program auto committed?
+
+Single Choice - Select one correct answer from the options list.
+
+TRUE
+
+FALSE
+
+Q55
+
+
+
+
+
+public class Sample{
+
+ public static void main(String agrs[])
+
+  {
+
+    for(int i=1; i<=10; i++);
+
+    System.out.print(i);
+
+  }
+
+}
+
+
+
+What is the output of the above code snippet?
+
+Single Choice - Select one correct answer from the options list.
+
+prints from 1 to 10
+
+Compilation error as for loop cannot be terminated using semi-colon
+
+prints nothing
+
+Compilation fails as variable 'i' is declared inside for loop
+
+Q56
+
+
+
+
+
+Which of the below statement is true regarding Serialization?
+
+Single Choice - Select one correct answer from the options list.
+
+Serialization is a mechanism of saving the state of an object into a file
+
+To persist an object to a file, the object Class needs to implement Serializable interface
+
+Deserialization is the process of reconstructing the object from the serialized state
+
+All of the Above
+
+Q57
+
+
+
+
+
+Which of the following statements are true regarding the try-with-resources statement?
+
+Single Choice - Select one correct answer from the options list.
+
+Resources are closed in the same order of their creation.
+
+Resources may not be closed properly if the code in the try block throws an exception for
+
+which there is no catch block.
+
+Resources may not be closed properly if the code in the catch block throws an exception.
+
+catch and finally blocks are executed after the resources opened in the try blocks are closed.
+
+Q58
+
+
+
+
+
+What will be the output of the program?
+
+
+
+import java.util.*;
+
+class Test
+
+{
+
+  public static void main (String[] args)
+
+  {
+
+     List<String> listStrings = Arrays.asList("Cherry", "is", "Sweet");
+
+
+
+ Collections.sort(listStrings);
+
+
+
+ System.out.println(listStrings);
+
+  }
+
+}
+
+Single Choice - Select one correct answer from the options list.
+
+[Cherry, Sweet, is]
+
+[Cherry, is, Sweet]
+
+compilation fails as there is no asList() method in Arrays class
+
+throws exception at runtime
+
+Q59
+
+
+
+
+
+Programmers can mark a collection e.g List as being restricted to contain a particular data type.
+
+The above statement is related to _________ concept in Java.
+
+Single Choice - Select one correct answer from the options list.
+
+Access restrictions
+
+Generics
+
+Garbage collection
+
+Multithreading
+
+Q60
+
+
+
+
+
+Richard has created the below application in java 6.
+
+
+
+public interface Flyer{
+
+public abstract void fly();
+
+}
+
+
+
+class Plane implements Flyer{
+
+   public void fly()
+
+{
+
+     System.out.println("flying ");
+
+   }
+
+}
+
+
+
+The requirement is to use to use the Functional Programming feature of Java 8
+
+
+
+Identify the code for the function fly() that would produce the same output
+
+as per the requirement.
+
+Single Choice - Select one correct answer from the options list.
+
+() -> return "flying";
+
+void fly() -> { System.out.println("flying"); }
+
+fly() -> { return "flying" }
+
+()->System.out.println("flying");
+
+Q61
+
+
+
+
+
+Which of the following Java interfaces can be used by TreeSet to sort user defined objects?
+
+Single Choice - Select one correct answer from the options list.
+
+Map
+
+List
+
+Comparable
+
+None
+
+Q62
+
+
+
+
+
+Which of the following interface provides features to store unique elements and in sorted order ?
+
+Single Choice - Select one correct answer from the options list.
+
+Collection
+
+SortedSet
+
+List
+
+Queue
+
+Q63
+
+
+
+
+
+The technical term for when the system returns an exception to a program is:
+
+
+
+Single Choice - Select one correct answer from the options list.
+
+generate
+
+throw
+
+produce
+
+take
+
+Q64
+
+
+
+
+
+Super T stands for:
+
+Single Choice - Select one correct answer from the options list.
+
+any reference types which are superclass of T are allowed.
+
+any reference types which are subclass of T are allowed.
+
+both 1 and 2
+
+none of the above
+
+Q65
+
+
+
+
+
+import java.util.TreeSet;
+
+public class Demo {
+
+public static void main(String[] args) {
+
+TreeSet<Integer> treeSet = new TreeSet<Integer>((o1, o2) -> (o1 > o2) ? -1
+
+: (o1 < o2) ? 1 : 0);
+
+treeSet.add(850);
+
+treeSet.add(235);
+
+treeSet.add(1080);
+
+treeSet.add(15);
+
+treeSet.add(5);
+
+System.out.println(treeSet);
+
+}
+
+}
+
+
+
+What will be the output?
+
+Single Choice - Select one correct answer from the options list.
+
+[1080, 850, 235, 15, 5]
+
+[1080, 850, 235, 5, 15]
+
+Compilation error
+
+[]
+
+Q66
+
+
+
+
+
+While serializing object, if you want some members of class not to get serialized,
+
+how will you achieve this?
+
+Single Choice - Select one correct answer from the options list.
+
+declare member as final
+
+declare member as private
+
+declare member as volatile
+
+declare member as transient
+
+Q67
+
+
+
+
+
+Which of the given statement is true about UnChecked Exceptions?
+
+Single Choice - Select one correct answer from the options list.
+
+They are checked by compiler at the time of compilation
+
+RuntimeException and its subclasses comes in the category of UnChecked Exception
+
+SQLException is unchecked exception.
+
+These exception must be handled in the code.
+
+Q68
+
+
+
+
+
+In a Java application Tanishi had stored class room numbers in TreeSet, she wants to write a code to
+
+print the class room numbers Suggest the correct option to achieve this:
+
+Single Choice - Select one correct answer from the options list.
+
+Use iterator
+
+Use enhanced for loop
+
+Can use either iterator or enhanced for loop
+
+TreeSet cannot be iterated
+
+Q69
+
+
+
+
+
+What will be the output of below code?
+
+
+
+ArrayList<String> list =
+
+  new ArrayList<String>();
+
+ list.add("Hello");
+
+ list.add("Welcome");
+
+ list.add("How are you");
+
+ list.add("I am fine");
+
+ System.out.println(list.stream().filter((str)->(str.length()>5)).
+
+ reduce((str1,str2)->(str1.concat(str2))));
+
+Single Choice - Select one correct answer from the options list.
+
+Optional[WelcomeHow are youI am fine]
+
+WelcomeHow are youI am fine
+
+no output
+
+error
+
+Q70
+
+
+
+
+
+Consider the following Java Code snippet. The code does not have any compilation error.
+
+
+
+.........
+
+TreeSet tree = new TreeSet();
+
+tree.add("one");
+
+tree.add("two");
+
+tree.add("three");
+
+tree.add("four");
+
+tree.add("two");
+
+Iterator it = tree.iterator();
+
+while (it.hasNext() )
+
+{
+
+  System.out.print( it.next() + " " );
+
+}
+
+....................
+
+
+
+What will be the output?
+
+Single Choice - Select one correct answer from the options list.
+
+one two three four
+
+four three two one
+
+four one three two
+
+one two three four one
+
+Q71
+
+
+
+
+
+Which of the following maintains objects in sorted order?
+
+Single Choice - Select one correct answer from the options list.
+
+LinkedHashSet
+
+TreeSet
+
+ArrayList
+
+HashMap
+
+Q72
+
+
+
+
+
+Which of the below alter command is correct for adding a new column rating in Emp table where rating
+
+should be 1-5?
+
+Single Choice - Select one correct answer from the options list.
+
+ALTER TABLE Emp ADD rating NUMBER(1);
+
+ALTER TABLE Emp ADD rating NUMBER(1) CHECK(rating >=1 and rating <=5);
+
+ALTER TABLE Emp ADD rating CHECK(rating >=1 and rating <=5);
+
+ALTER TABLE Emp ADD rating NUMBER(1) CHECK(rating <=1 and rating >=5);
+
+Q73
+
+
+
+
+
+Which of the below statement is false?
+
+Single Choice - Select one correct answer from the options list.
+
+A checked Exception is a subclass of the Exception class but not a subclass of RunTimeException class.
+
+A method uses throws keyword to throw an exception or error.
+
+A method uses throws clause in its signature to declare that it might throw an exception.
+
+You can rethrow an error that you catch in an exception handler.
+
+Q74
+
+
+
+
+
+_________ indicates serious problems that a reasonable application should not try to catch.
+
+Single Choice - Select one correct answer from the options list.
+
+Exception
+
+Error
+
+Throwable
+
+ThreadDeath
+
+Q75
+
+
+
+
+
+Which of the following is true regarding Java?
+
+
+
+a. Java is a robust programming language
+
+b. Java is a platform dependent programming language.
+
+C. Abstract class can have concrete methods
+
+Single Choice - Select one correct answer from the options list.
+
+option a
+
+option a & b
+
+option b & c
+
+option a & c
